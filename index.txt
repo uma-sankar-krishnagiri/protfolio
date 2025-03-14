@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Uday Kumar Nidala
+Uday Kumar Nidala
 Web developer
 
 Show Contacts
